@@ -1,2 +1,5 @@
 --Java EE--
--
+- set of APIs and runtime
+- Annotation based configuration
+- XML optional
+- Contexts and Dependency Injection (CDI)
